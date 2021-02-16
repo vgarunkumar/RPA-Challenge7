@@ -1,0 +1,49 @@
+Microsoft Windows [Version 10.0.19042.804]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\layas\Documents\UiPath\RPA Challenge 7>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-5INUGH3
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lan1
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : lan1
+   Description . . . . . . . . . . . : Broadcom 802.11ac Network Adapter
+   Physical Address. . . . . . . . . : F0-18-98-94-F6-29
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2603:9000:e408:3f02::2aa(Preferred)
+   Lease Obtained. . . . . . . . . . : Monday, February 15, 2021 9:51:46 PM
+   Lease Expires . . . . . . . . . . : Monday, February 22, 2021 7:35:21 AM
+   IPv6 Address. . . . . . . . . . . : 2603:9000:e408:3f02:9955:148d:4c47:75ae(Preferred)
+   Temporary IPv6 Address. . . . . . : 2603:9000:e408:3f02:5512:aa19:2fbe:665c(Preferred)
+   Link-local IPv6 Address . . . . . : fe80::9955:148d:4c47:75ae%13(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.1.67(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, February 15, 2021 9:51:43 PM
+   Lease Expires . . . . . . . . . . : Monday, February 22, 2021 9:51:43 PM
+   Default Gateway . . . . . . . . . : fe80::7edb:98ff:fe47:4e28%13
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 116398232
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-A1-4D-87-F0-18-98-94-F6-29
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : F0-18-98-99-6C-30
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\layas\Documents\UiPath\RPA Challenge 7>
